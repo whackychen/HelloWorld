@@ -1,8 +1,2 @@
-echo "# HelloWorld" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:whackychen/HelloWorld.git
-git push -u origin main
+Hey, i am into web designing and i am still learning.
                 
